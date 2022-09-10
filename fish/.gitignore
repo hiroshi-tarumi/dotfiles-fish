@@ -1,0 +1,13 @@
+# Private or local aliases
+aliases/private.fish
+aliases/colorls.fish
+
+# Private or local environment
+env/private.fish
+
+# Private or local config
+private.fish
+
+# fish generated files
+fishd*
+fish_variables
